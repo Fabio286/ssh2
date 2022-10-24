@@ -1,3 +1,7 @@
+# Fork info
+
+This is a fork of ssh2 that has the pull request merged that allows a connection to Ubuntu 22.04 (and other) machines, see https://github.com/mscdex/ssh2/pull/1200 and https://github.com/mscdex/ssh2/issues/989.
+
 # Description
 
 SSH2 client and server modules written in pure JavaScript for [node.js](http://nodejs.org/).
